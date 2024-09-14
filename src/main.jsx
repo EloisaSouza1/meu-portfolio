@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './template/Header.jsx'
 import Footer from './template/Footer.jsx'
 import { Button } from 'react-bootstrap'
+import './custom.css';
 import {
   createBrowserRouter,
   RouterProvider,
